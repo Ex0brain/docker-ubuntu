@@ -1,4 +1,4 @@
-FROM nitrousio/ubuntu-bare:trusty
+FROM nitrousio/ubuntu-bare:latest
 MAINTAINER Nitrous.IO <hello@nitrous.io>
 
 # Install essential tools
